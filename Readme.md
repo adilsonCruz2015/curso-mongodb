@@ -1,8 +1,6 @@
 # O que é MongoDb?
 
-# MongoDB é um banco de dados de propósito geral, baseado em documentos, distribuído criado para desenvolvedores de aplicativos modernos e para a nuvem desta era.
-# O [MongoDB] trabalha com os estados dos arquivos.
-
+# O [MongoDB] é um banco de dados de propósito geral, baseado em documentos, distribuído criado para desenvolvedores de aplicativos modernos e para a nuvem desta era.
 
 ## Melhorias do [Git]
 
